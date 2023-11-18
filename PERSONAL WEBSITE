@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francis Kitosisio - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #4d79ff;
+            color: #fff;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Francis Kitosisio</h1>
+        <p>University Student | Aspiring Innovator</p>
+    </header>
+
+    <section>
+        <h2>Early Years</h2>
+        <p>From a young age, I've been fascinated by technology and curious about how things work...</p>
+    </section>
+
+    <section>
+        <h2>Academic Journey</h2>
+        <p>Currently pursuing a degree in Computer Science at Zetech University. My academic journey involves...</p>
+    </section>
+
+    <section>
+        <h2>Passions and Interests</h2>
+        <p>Besides academics, I have a passion for problem-solving and creating innovative solutions./p>
+    </section>
+
+    <section>
+        <h2>Future Aspirations</h2>
+        <p>Looking ahead, I aspire to contribute to the tech industry, striving for innovation and positive impact...</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Francis Kitosisio. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
